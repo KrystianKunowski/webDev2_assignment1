@@ -1,0 +1,166 @@
+footer{
+    background-color: black;
+}
+
+.class_style_font{
+    font-family: 'Satisfy', cursive;
+}
+.class_logo_font{
+    font-family: 'Rock Salt', cursive;
+}
+.navbar 
+{ 
+    background-color: black; 
+} 
+.class_drop{
+    background-color: black;
+}
+.class_drop_hov1:hover{
+    background-color: red;
+}
+.class_drop_hov2:hover{
+    background-color: red;
+}
+.class_drop_hov3:hover{
+    background-color: red;
+}
+.class_manu_font{
+    font-family: 'Trade Winds', cursive;
+}
+body{
+    padding-top: 50px;
+}
+.class_title_font{
+    font-family: 'Audiowide', cursive;
+}
+.class_margin{
+    margin-bottom: -5px;
+}
+
+/*  contactUs  */
+
+.contact-form {
+    padding: 50px;
+    margin: 30px 0;
+}
+.contact-form h1 {
+    color: black;
+    font-weight: bold;
+    margin: 0 0 15px;
+}
+.contact-form .form-control, .contact-form .btn {
+    min-height: 38px;
+    border-radius: 2px;
+}
+.contact-form .form-control:focus {
+    border-color: black;
+}
+.contact-form .btn-primary, .contact-form .btn-primary:active {
+    color: #fff;
+    min-width: 150px;
+    font-size: 16px;
+    background:black !important;
+    border: none;
+}
+.contact-form .btn-primary:hover {
+    background: black !important; 
+}
+.contact-form .btn i {
+    margin-right: 5px;
+}
+.contact-form label {
+    opacity: 0.7;
+}
+.contact-form textarea {
+    resize: vertical;
+}
+.hint-text {
+    font-size: 15px;
+    padding-bottom: 20px;
+    opacity: 0.6;
+}
+li{
+padding-left: 10px;
+}
+.class_card_padding{
+    margin-bottom: 20px;;
+}
+::placeholder{
+    font-family: 'Satisfy', cursive;
+}
+.class_pad_title{
+    padding-top: 50px;
+}
+.class_pad_bot{
+    padding-bottom: 50px;
+}
+.class_pad_pic_news{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.class_rel{
+    position: relative;
+}
+.class_cap {
+    position: absolute;
+    margin: 0;
+    top: 70%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+.class_color_col{
+    background-color: black;
+}
+.class_pad_ava{
+    padding-bottom: 25px;
+}
+.class_col_eq{
+    width: 33.33%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+@media screen and (max-width: 800px) {
+    .class_col_eq {
+      width: 100%;
+      padding-bottom: 20px;
+
+    }
+  }
+.class_card_comp{
+    margin-bottom: 20px;
+}
+.item-price strike {
+	color: #999;
+	margin-right: 5px;
+}
+.item-price span {
+	color: red;
+	font-size: 110%;
+}	
+.class_img_s{
+    width: 357px;
+    height: 250px;
+}
+@media screen and (max-width: 1000px) {
+    .class_img_s {
+      width: 100%;
+      height: 100%;
+      padding-bottom: 20px;
+
+    }
+  }
+  .class_img_back{
+    background-size: cover;
+  }
+  .class_gradient{
+    background: rgb(29,28,52);
+    background: linear-gradient(0deg, rgba(29,28,52,1) 0%, rgba(122,127,249,1) 100%);
+    margin-top: -35px;
+    margin-bottom: -20px;
+  }
+  .strike{
+    text-decoration: line-through;
+    color:#ccc;
+  }
