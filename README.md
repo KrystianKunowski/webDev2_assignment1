@@ -1,6 +1,6 @@
 Sources : 
 
-1. Freepik company projects (2020) Access 3,599,500 vector icons,
+1.Freepik company projects (2020) Access 3,599,500 vector icons,
 Available at: https://www.flaticon.com/
 (Accessed: 12.11.2020).
 
